@@ -27,7 +27,7 @@ a,header,footer{
 	margin:; auto;
 }
 .section,nav{
-	background-color: brown;
+	background-color: green;
 	text-align: center;
 }
 header{
@@ -60,4 +60,7 @@ li a, boton{
 }
 li a:hover{
 background-color: red;
+}
+nav{
+color: white;	
 }
